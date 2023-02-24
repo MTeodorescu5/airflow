@@ -1,0 +1,1 @@
+This reposistory is a learning ground. Utilizing git and intializing my own airflow instance to create dags and apply other concepts i've learned from the apache airflow training course.
